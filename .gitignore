@@ -1,6 +1,9 @@
 #Don't upload 1gb worth of audio files
 data/genres_original/*
 
+#Don't need images
+graphics/img/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
